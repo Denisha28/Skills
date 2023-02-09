@@ -1,0 +1,17 @@
+body{
+    border:2px solid grey;
+    height:800px;
+    width:800px;
+    display: flex;
+}
+.w{
+    height:100px;
+    width:100px;
+    background-color: white;
+
+}
+.b{
+    height:100px;
+    width:100px;
+    background-color:black;
+}
